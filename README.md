@@ -80,12 +80,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
 
+## 🦸 Autor
+<br/>
 <a href="https://github.com/DeyvisonTav">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101512004?v=4" width="100px;" alt=""/>
  <br />
+ <br/>
  <sub><b>Deyvison Tavares</b></sub>🚀</a>
+ <br />
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deyvison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvison-tavares/)](https://www.linkedin.com/in/deyvison-tavares/)
@@ -97,3 +100,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Deyvison Tavares 👋🏽 [Entre em contato!](https://www.linkedin.com/in/deyvison-tavares/)
+
